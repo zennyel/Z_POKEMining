@@ -1,0 +1,5 @@
+Default: 'cobblestone'
+Drops:
+  - 'GOLD_ORE'
+  - 'DIAMOND_ORE'
+Chance: 0.01

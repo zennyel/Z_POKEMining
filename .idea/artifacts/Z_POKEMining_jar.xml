@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Z_POKEMining:jar">
+    <output-path>$USER_HOME$/Desktop/Servers/1.19.3/plugins</output-path>
+    <root id="archive" name="Z_POKEMining.jar">
+      <element id="module-output" name="Z_POKEMining" />
+    </root>
+  </artifact>
+</component>
